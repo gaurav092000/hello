@@ -9,8 +9,9 @@ namespace hello
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+           
             //int g = 34;
             //Console.WriteLine(g);
             //DATA TYPE 
@@ -48,8 +49,9 @@ namespace hello
 
             float vrr = Convert.ToInt32(3.55);
             Console.WriteLine(vrr);
-            Console.ReadLine();
+            Console.ReadKey();
             
         }
+
     }
 }
