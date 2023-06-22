@@ -10,6 +10,7 @@ namespace hello1
     {
         static void Main(string[] args)
         {
+            //instant variable
             Program program = new Program();
             program.add();
             program.sub();

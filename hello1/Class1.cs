@@ -10,6 +10,8 @@ namespace hello1
     {
         static void Main()
         {
+
+            //static variable
             Console.WriteLine(Class1.str);
             Console.ReadKey();
         }
